@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+opencv-python
+tensorflow
+keras
+numpy
+pandas
+imutils
+Pillow
+streamlit-camera-input-live
